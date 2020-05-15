@@ -2381,12 +2381,12 @@ if (false) {} else {
 
 /***/ "./node_modules/react/index.js":
 /*!*******************************************************************************************!*\
-  !*** delegated ./node_modules/react/index.js from dll-reference dll_c2e10d183b950a67d9e7 ***!
+  !*** delegated ./node_modules/react/index.js from dll-reference dll_2adc2403d89adc16ead0 ***!
   \*******************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = (__webpack_require__(/*! dll-reference dll_c2e10d183b950a67d9e7 */ "dll-reference dll_c2e10d183b950a67d9e7"))("./node_modules/react/index.js");
+module.exports = (__webpack_require__(/*! dll-reference dll_2adc2403d89adc16ead0 */ "dll-reference dll_2adc2403d89adc16ead0"))("./node_modules/react/index.js");
 
 /***/ }),
 
@@ -3473,7 +3473,7 @@ if (typeof content === 'string') {
 
 var options = {}
 
-options.insert = function (element){// These elements should always exist. If they do not,
+options.insert = function(element){// These elements should always exist. If they do not,
 // this code should fail.
 var anchorElement=document.querySelector('#__next_css__DO_NOT_USE__');var parentNode=anchorElement.parentNode;// Normally <head>
 // Each style tag should be placed right before our
@@ -3532,14 +3532,14 @@ module.exports = __webpack_require__(/*! /Users/gabriel/Documents/Gabriel/nextjs
 
 /***/ }),
 
-/***/ "dll-reference dll_c2e10d183b950a67d9e7":
+/***/ "dll-reference dll_2adc2403d89adc16ead0":
 /*!*******************************************!*\
-  !*** external "dll_c2e10d183b950a67d9e7" ***!
+  !*** external "dll_2adc2403d89adc16ead0" ***!
   \*******************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = dll_c2e10d183b950a67d9e7;
+module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
